@@ -1,0 +1,6 @@
+# Ignorar a chave
+SecretKey.swift
+
+# Ignorar arquivos de usuário do Xcode
+xcuserdata/
+*.xcuserstate
